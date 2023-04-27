@@ -1,3 +1,6 @@
+B
+
+ggg
 #include<stdio.h>
 int main()
 {
